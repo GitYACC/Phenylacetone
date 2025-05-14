@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    ["minecraft:coal", "minecraft:charcoal"],
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "phenylacetone:cigarette",
+    "count": 1
+  }
+}
